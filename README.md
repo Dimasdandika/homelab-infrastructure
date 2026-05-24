@@ -7,7 +7,6 @@
 
 > PC Bekas → Profile Site Live di Internet
 > Fresh Graduate TI UGM | DevOps/Cloud Portfolio
-
 ## Stack
 - **OS:** Ubuntu Server 24.04 LTS
 - **Reverse Proxy:** Nginx + Let's Encrypt SSL
